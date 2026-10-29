@@ -1,6 +1,6 @@
 
 <div align="center">
-    From aimlessly tinkering with Rblox Lua in 2012 to managing version control & writing plugins in Rust and Bevy in 2026, I enjoy working with a variety of languages to make games among other kinds of software.
-    For the projects I'd like to be public, I keep them here. 
-    
+    Began my programming journey tinkering with Rblx Lua as a teenager.
+    Although my passion is games I enjoy making a variety of things.
+    Currently having a blast learning Rust & data-oriented design as seen in the Bevy framework.     
 </div>
